@@ -1,0 +1,10 @@
+Package: playr
+Type: Package
+Title: Play and Learn Statistical Concepts in R
+Version: 0.1.0
+Author: Soumya Ray
+Maintainer: <soumya.ray@gmail.com>
+Description: Interactive demos of statistial concepts for learning and teaching.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
